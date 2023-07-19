@@ -1,2 +1,2 @@
 # UART-implementation-using-verilog
-UART implementation of receiver and transmitter using VHDL
+UART implementation of receiver and transmitter using verilog
